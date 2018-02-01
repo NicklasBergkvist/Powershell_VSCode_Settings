@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.formatOnType": true,
+		"editor.formatOnSave": true,
+		"editor.formatOnPaste": true,
+		"powershell.codeFormatting.openBraceOnSameLine": false,
+		"powershell.codeFormatting.ignoreOneLineBlock": false,
+		"powershell.codeFormatting.alignPropertyValuePairs": true,
+		"editor.renderLineHighlight": "none",
+		"editor.autoClosingBrackets": true,
+		"editor.autoIndent": true,
+		"editor.selectionHighlight": false,
+		"workbench.iconTheme": "material-icon-theme"
+	}
+}
